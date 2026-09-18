@@ -1,4 +1,4 @@
-# sonicr-psp
+# sonic-r-psp-public
 
 A port of Sonic R to the PSP.
 

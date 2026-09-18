@@ -1,3 +1,14 @@
+# sonicr-psp
+
+A port of Sonic R to the PSP.
+
+WE RECOMMEND GOING INTO THE OPTIONS -> GRAPHICS SETTINGS AND THEN CHANGING THE DRAW DISTANCE TO FAR FOR NOW! <3
+
+## Credits
+
+* koi (me!) - PSP Port
+* FreddySP - Did the initial prototype & then went onto helping optimize the port & other things
+
 # Sonic R
 
 Here you will find a reimplementation of *Sonic R* (the 1998 Sega PC release),

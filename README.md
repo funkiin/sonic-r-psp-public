@@ -1,6 +1,6 @@
-# sonic-r-psp-public
+# Sonic R PSP (Public Repo)
 
-A port of Sonic R to the PSP.
+A port of Sonic R to the Playstation Portable
 
 WE RECOMMEND GOING INTO THE OPTIONS -> GRAPHICS SETTINGS AND THEN CHANGING THE DRAW DISTANCE TO NEAR FOR NOW! <3
 

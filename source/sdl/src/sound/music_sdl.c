@@ -6,8 +6,8 @@
  * matching the original CD track numbering.
  */
 
-#include <SDL.h>
-#include <SDL_mixer.h>
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_mixer.h>
 #include <stdio.h>
 #include "sonicr_types.h"
 #include "sonicr_globals.h"
